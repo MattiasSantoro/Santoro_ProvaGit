@@ -1,0 +1,12 @@
+ Il volume nell'unit… C non ha etichetta.
+ Numero di serie del volume: 0669-4CFD
+
+ Directory di C:\Users\4C24\Desktop\Santoro_ProvaGit
+
+16/10/2021  09:39    <DIR>          .
+16/10/2021  09:39    <DIR>          ..
+16/10/2021  09:39                 0 dir.txt
+16/10/2021  09:26                32 info.txt.txt
+16/10/2021  09:16                57 README.md
+               3 File             89 byte
+               2 Directory  74.791.788.544 byte disponibili
